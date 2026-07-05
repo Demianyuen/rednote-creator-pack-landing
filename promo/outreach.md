@@ -6,6 +6,10 @@ Current order form page:
 
 https://demianyuen.github.io/rednote-creator-pack-landing/
 
+Sample pack:
+
+https://demianyuen.github.io/rednote-creator-pack-landing/sample-pack.md
+
 ## Short Post
 
 I am testing a small RedNote / Xiaohongshu creator workflow.
@@ -15,6 +19,7 @@ Send one public RedNote/XHS post and I will turn it into a compact creator pack:
 Launch offer: $12 per post pack.
 
 Page: https://demianyuen.github.io/rednote-creator-pack-landing/
+Sample: https://demianyuen.github.io/rednote-creator-pack-landing/sample-pack.md
 
 ## Creator Angle
 

@@ -6,6 +6,10 @@ Order form page:
 
 https://demianyuen.github.io/rednote-creator-pack-landing/
 
+Sample pack:
+
+https://demianyuen.github.io/rednote-creator-pack-landing/sample-pack.md
+
 ## Offer
 
 Send one public RedNote or Xiaohongshu post and receive a compact creator pack:
