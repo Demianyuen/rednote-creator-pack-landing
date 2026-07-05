@@ -15,6 +15,7 @@ Send one public RedNote or Xiaohongshu post and receive a compact creator pack w
 - RedNote transcript service: https://demianyuen.github.io/rednote-creator-pack-landing/rednote-transcript-service.html
 - Xiaohongshu OCR text extraction: https://demianyuen.github.io/rednote-creator-pack-landing/xiaohongshu-ocr-text-extraction.html
 - RedNote content repurposing service: https://demianyuen.github.io/rednote-creator-pack-landing/rednote-content-repurposing-service.html
+- Free RedNote hook generator: https://demianyuen.github.io/rednote-creator-pack-landing/rednote-hook-generator.html
 
 ## What Is Included
 
