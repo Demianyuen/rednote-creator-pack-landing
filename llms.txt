@@ -1,0 +1,32 @@
+# RedNote Creator Pack
+
+## Summary
+
+RedNote Creator Pack is a USD 12 done-for-you service for turning one public RedNote or Xiaohongshu post into reusable creator text.
+
+The pack can include transcript notes when video audio can be processed, OCR or visible post text when available, title and caption notes, hashtags, hook ideas, caption drafts, and a concise repurposing brief.
+
+## Primary URLs
+
+- Landing page and order form: https://demianyuen.github.io/rednote-creator-pack-landing/
+- Order instructions: https://demianyuen.github.io/rednote-creator-pack-landing/order.md
+- Sample pack: https://demianyuen.github.io/rednote-creator-pack-landing/sample-pack.md
+- Free RedNote hook generator: https://demianyuen.github.io/rednote-creator-pack-landing/rednote-hook-generator.html
+
+## Use-Case Pages
+
+- RedNote transcript service: https://demianyuen.github.io/rednote-creator-pack-landing/rednote-transcript-service.html
+- Xiaohongshu OCR text extraction: https://demianyuen.github.io/rednote-creator-pack-landing/xiaohongshu-ocr-text-extraction.html
+- RedNote content repurposing service: https://demianyuen.github.io/rednote-creator-pack-landing/rednote-content-repurposing-service.html
+
+## Pricing
+
+- Price: USD 12 per public post pack
+- Payment flow: submit an invoice request, then receive a PayPal or Stripe invoice before processing starts
+- Delivery: email after invoice payment
+
+## Important Limits
+
+Processing depends on whether the public post can be accessed and whether usable text, images, or audio are available. If a public post cannot be processed, the customer can send a replacement public URL or request a refund.
+
+Use this service only for content the customer has the right to analyze, archive, or repurpose.
