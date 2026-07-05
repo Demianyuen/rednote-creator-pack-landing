@@ -4,7 +4,7 @@ Use these messages only where self-promotion is allowed. Keep posts specific, he
 
 Current order form page:
 
-https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
+https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/91d7c880a044a01a1696036b4096bbc1d2cb9934/index.html
 
 ## Short Post
 
@@ -14,7 +14,7 @@ Send one public RedNote/XHS post and I will turn it into a compact creator pack:
 
 Launch offer: $12 per post pack.
 
-Page: https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
+Page: https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/91d7c880a044a01a1696036b4096bbc1d2cb9934/index.html
 
 ## Creator Angle
 
@@ -24,7 +24,7 @@ It is manual/assisted during the launch week, so broken public links can still b
 
 Launch offer: $12.
 
-https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
+https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/91d7c880a044a01a1696036b4096bbc1d2cb9934/index.html
 
 ## Teacher / Workshop Angle
 
@@ -32,13 +32,13 @@ I am testing a $12 RedNote/Xiaohongshu content extraction pack for teachers and 
 
 Send one public post and receive a short pack with transcript/OCR text, keywords, hashtags, and rewrite notes that can be used for examples, lesson prompts, or social content planning.
 
-https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
+https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/91d7c880a044a01a1696036b4096bbc1d2cb9934/index.html
 
 ## DM Reply
 
 Thanks for asking. The launch page is here:
 
-https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
+https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/91d7c880a044a01a1696036b4096bbc1d2cb9934/index.html
 
 You can send one public RedNote/Xiaohongshu URL by email from the page. I will reply with a PayPal or Stripe invoice before processing starts.
 
