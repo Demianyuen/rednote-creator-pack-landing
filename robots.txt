@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://demianyuen.github.io/xhs-video-downloader-REAL-/sitemap.xml
+Sitemap: https://demianyuen.github.io/rednote-creator-pack-landing/sitemap.xml
