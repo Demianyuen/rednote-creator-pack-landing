@@ -264,6 +264,46 @@
         font-size: 14px;
       }
 
+      .order-form {
+        display: grid;
+        gap: 12px;
+        margin-top: 20px;
+      }
+
+      .field {
+        display: grid;
+        gap: 6px;
+      }
+
+      label {
+        font-size: 14px;
+        font-weight: 800;
+      }
+
+      input,
+      select,
+      textarea {
+        width: 100%;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #fff;
+        color: var(--ink);
+        font: inherit;
+        min-height: 46px;
+        padding: 10px 12px;
+      }
+
+      textarea {
+        min-height: 92px;
+        resize: vertical;
+      }
+
+      .form-status {
+        color: var(--muted);
+        font-size: 14px;
+        min-height: 22px;
+      }
+
       footer {
         padding: 34px 0;
         color: var(--muted);
@@ -309,7 +349,7 @@
               visible post text, hashtags, hooks, and caption ideas you can reuse for short-form content planning.
             </p>
             <div class="actions">
-              <a class="button primary" href="mailto:support@xhsvideodownloader.com?subject=RedNote%20Creator%20Pack%20Order&body=Hi%2C%20I%20want%20the%20%249%20RedNote%20Creator%20Pack.%0A%0ARedNote%2FXHS%20URL%3A%0APayment%20method%3A%20PayPal%20or%20Stripe%0ADelivery%20email%3A%0A">
+              <a class="button primary" href="#order">
                 Request the $9 pack
               </a>
               <a class="button secondary" href="https://xhsvideodownloader.com">
@@ -370,13 +410,45 @@
               <li>If the post cannot be processed, you can send a replacement URL or request a refund.</li>
             </ul>
             <div class="actions">
-              <a class="button primary" href="mailto:support@xhsvideodownloader.com?subject=RedNote%20Creator%20Pack%20Order&body=Hi%2C%20I%20want%20the%20%249%20RedNote%20Creator%20Pack.%0A%0ARedNote%2FXHS%20URL%3A%0APayment%20method%3A%20PayPal%20or%20Stripe%0ADelivery%20email%3A%0A">
-                Start by email
+              <a class="button primary" href="#order">
+                Start order
               </a>
               <a class="button secondary" href="https://github.com/Demianyuen/xhs-video-downloader-REAL-">
                 View project
               </a>
             </div>
+          </div>
+        </section>
+
+        <section id="order">
+          <h2>Request an invoice</h2>
+          <div class="card">
+            <p class="note">
+              Fill this in and your email app will open with a ready-to-send order request. No account is required.
+            </p>
+            <form class="order-form" id="order-form">
+              <div class="field">
+                <label for="post-url">RedNote / XHS public URL</label>
+                <input id="post-url" name="post-url" type="url" placeholder="https://www.xiaohongshu.com/..." required>
+              </div>
+              <div class="field">
+                <label for="delivery-email">Delivery email</label>
+                <input id="delivery-email" name="delivery-email" type="email" placeholder="you@example.com" required>
+              </div>
+              <div class="field">
+                <label for="payment-method">Preferred payment method</label>
+                <select id="payment-method" name="payment-method">
+                  <option value="PayPal invoice">PayPal invoice</option>
+                  <option value="Stripe invoice">Stripe invoice</option>
+                </select>
+              </div>
+              <div class="field">
+                <label for="notes">Goal for this post</label>
+                <textarea id="notes" name="notes" placeholder="Example: caption ideas, lesson notes, competitor research, hooks for short videos"></textarea>
+              </div>
+              <button class="button primary" type="submit">Open invoice request email</button>
+              <p class="form-status" id="form-status" aria-live="polite"></p>
+            </form>
           </div>
         </section>
       </main>
@@ -386,5 +458,34 @@
         Xiaohongshu, or XHS.
       </footer>
     </div>
+    <script>
+      const form = document.getElementById('order-form');
+      const status = document.getElementById('form-status');
+
+      form.addEventListener('submit', (event) => {
+        event.preventDefault();
+
+        const postUrl = document.getElementById('post-url').value.trim();
+        const deliveryEmail = document.getElementById('delivery-email').value.trim();
+        const paymentMethod = document.getElementById('payment-method').value;
+        const notes = document.getElementById('notes').value.trim();
+
+        const subject = 'RedNote Creator Pack Order';
+        const body = [
+          'Hi, I want the $9 RedNote Creator Pack.',
+          '',
+          `RedNote/XHS URL: ${postUrl}`,
+          `Delivery email: ${deliveryEmail}`,
+          `Payment method: ${paymentMethod}`,
+          `Goal/notes: ${notes || 'Not specified'}`,
+          '',
+          'Please send the invoice before processing starts.'
+        ].join('\n');
+
+        const href = `mailto:support@xhsvideodownloader.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+        status.textContent = 'Opening your email app with the invoice request...';
+        window.location.href = href;
+      });
+    </script>
   </body>
 </html>
