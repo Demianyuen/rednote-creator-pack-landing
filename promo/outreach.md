@@ -2,9 +2,9 @@
 
 Use these messages only where self-promotion is allowed. Keep posts specific, helpful, and non-spammy.
 
-Landing page:
+Current order form page:
 
-https://demianyuen.github.io/rednote-creator-pack-landing/
+https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
 
 ## Short Post
 
@@ -14,7 +14,7 @@ Send one public RedNote/XHS post and I will turn it into a compact creator pack:
 
 Launch offer: $9 per post pack.
 
-Page: https://demianyuen.github.io/rednote-creator-pack-landing/
+Page: https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
 
 ## Creator Angle
 
@@ -24,7 +24,7 @@ It is manual/assisted during the launch week, so broken public links can still b
 
 Launch offer: $9.
 
-https://demianyuen.github.io/rednote-creator-pack-landing/
+https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
 
 ## Teacher / Workshop Angle
 
@@ -32,13 +32,13 @@ I am testing a $9 RedNote/Xiaohongshu content extraction pack for teachers and w
 
 Send one public post and receive a short pack with transcript/OCR text, keywords, hashtags, and rewrite notes that can be used for examples, lesson prompts, or social content planning.
 
-https://demianyuen.github.io/rednote-creator-pack-landing/
+https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
 
 ## DM Reply
 
 Thanks for asking. The launch page is here:
 
-https://demianyuen.github.io/rednote-creator-pack-landing/
+https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
 
 You can send one public RedNote/Xiaohongshu URL by email from the page. I will reply with a PayPal or Stripe invoice before processing starts.
 

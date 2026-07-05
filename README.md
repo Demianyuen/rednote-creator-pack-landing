@@ -2,7 +2,11 @@
 
 Public landing page for the early $9 RedNote / Xiaohongshu Creator Pack.
 
-Live page:
+Current order form page:
+
+https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
+
+GitHub Pages fallback:
 
 https://demianyuen.github.io/rednote-creator-pack-landing/
 
