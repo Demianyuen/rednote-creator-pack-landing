@@ -9,6 +9,7 @@ Send one public RedNote or Xiaohongshu post and receive a compact creator pack w
 - Order page: https://demianyuen.github.io/rednote-creator-pack-landing/
 - Order instructions: https://demianyuen.github.io/rednote-creator-pack-landing/order.md
 - Sample pack: https://demianyuen.github.io/rednote-creator-pack-landing/sample-pack.md
+- Delivery, refund, and privacy notes: https://demianyuen.github.io/rednote-creator-pack-landing/delivery-refund-privacy.html
 - Launch price: USD 12 per public post pack
 
 ## Use-Case Pages
