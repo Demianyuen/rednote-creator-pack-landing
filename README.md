@@ -1,6 +1,6 @@
 # RedNote Creator Pack Landing Page
 
-Public landing page for the early $9 RedNote / Xiaohongshu Creator Pack.
+Public landing page for the early $12 RedNote / Xiaohongshu Creator Pack.
 
 Current order form page:
 
@@ -19,7 +19,7 @@ Send one public RedNote or Xiaohongshu post and receive a compact creator pack:
 - Title, description, hashtags, and keyword notes
 - Short hooks and caption ideas for repurposing
 
-Launch price: USD 9 per post pack.
+Launch price: USD 12 per post pack.
 
 ## Current Payment Flow
 

@@ -12,7 +12,7 @@ I am testing a small RedNote / Xiaohongshu creator workflow.
 
 Send one public RedNote/XHS post and I will turn it into a compact creator pack: transcript when available, OCR text, title/description, hashtags, hooks, and caption ideas.
 
-Launch offer: $9 per post pack.
+Launch offer: $12 per post pack.
 
 Page: https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
 
@@ -22,13 +22,13 @@ If you save RedNote/Xiaohongshu posts for inspiration but never reuse them, I bu
 
 It is manual/assisted during the launch week, so broken public links can still be handled case by case.
 
-Launch offer: $9.
+Launch offer: $12.
 
 https://rawcdn.githack.com/Demianyuen/rednote-creator-pack-landing/9c46f6049405a6f3e1b555520572ce5c0195864b/index.html
 
 ## Teacher / Workshop Angle
 
-I am testing a $9 RedNote/Xiaohongshu content extraction pack for teachers and workshop creators.
+I am testing a $12 RedNote/Xiaohongshu content extraction pack for teachers and workshop creators.
 
 Send one public post and receive a short pack with transcript/OCR text, keywords, hashtags, and rewrite notes that can be used for examples, lesson prompts, or social content planning.
 
