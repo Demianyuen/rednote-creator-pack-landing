@@ -547,16 +547,24 @@
           <h2>Request an invoice</h2>
           <div class="card">
             <p class="note">
-              Fill this in and your email app will open with a ready-to-send order request. No account is required.
+              Fill this in to send an invoice request. If the form service asks for first-use confirmation, check the support inbox once.
             </p>
-            <form class="order-form" id="order-form">
+            <form class="order-form" id="order-form" action="https://formsubmit.co/support@xhsvideodownloader.com" method="POST">
+              <input type="hidden" name="_subject" value="RedNote Creator Pack Order">
+              <input type="hidden" name="_template" value="table">
+              <input type="hidden" name="_next" value="https://demianyuen.github.io/rednote-creator-pack-landing/thank-you.html">
+              <input
+                type="hidden"
+                name="_autoresponse"
+                value="Thanks for requesting the $12 RedNote Creator Pack. A PayPal or Stripe invoice will be sent before processing starts."
+              >
               <div class="field">
                 <label for="post-url">RedNote / XHS public URL</label>
-                <input id="post-url" name="post-url" type="url" placeholder="https://www.xiaohongshu.com/..." required>
+                <input id="post-url" name="RedNote or XHS public URL" type="url" placeholder="https://www.xiaohongshu.com/..." required>
               </div>
               <div class="field">
                 <label for="delivery-email">Delivery email</label>
-                <input id="delivery-email" name="delivery-email" type="email" placeholder="you@example.com" required>
+                <input id="delivery-email" name="email" type="email" placeholder="you@example.com" required>
               </div>
               <div class="field">
                 <label for="payment-method">Preferred payment method</label>
@@ -569,7 +577,7 @@
                 <label for="notes">Goal for this post</label>
                 <textarea id="notes" name="notes" placeholder="Example: caption ideas, lesson notes, competitor research, hooks for short videos"></textarea>
               </div>
-              <button class="button primary" type="submit">Open invoice request email</button>
+              <button class="button primary" type="submit">Submit invoice request</button>
               <p class="form-status" id="form-status" aria-live="polite"></p>
             </form>
             <div class="manual-order" id="manual-order" aria-live="polite">
@@ -617,11 +625,9 @@
           'Please send the invoice before processing starts.'
         ].join('\n');
 
-        const href = `mailto:support@xhsvideodownloader.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
         manualOrderText.textContent = `To: support@xhsvideodownloader.com\nSubject: ${subject}\n\n${body}`;
         manualOrder.classList.add('is-visible');
-        status.textContent = 'Opening your email app. If nothing opens, copy the order request below.';
-        window.location.href = href;
+        status.textContent = 'Submitting the invoice request. If the form does not send, copy the order request below.';
       });
 
       copyOrder.addEventListener('click', async () => {
